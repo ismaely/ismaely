@@ -80,7 +80,6 @@
 </div>
  
  <div> 
-   <img aling="center" alt="Ismaely" src="https://starchart.cc/ismaely/ismaely.svg">
 
  </div>
  
