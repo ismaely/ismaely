@@ -16,12 +16,13 @@
 <img aling="center" alt="Ismaely-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   
 <img aling="center" alt="Ismaely-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-   
-<img aling="center" alt="Ismaely-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img aling="center" alt="Ismaely-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img aling="center" alt="Ismaely-Python" height="30" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img aling="center" alt="Ismaely-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img aling="center" alt="Ismaely-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img aling="center" alt="Ismaely-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg">
+ <img aling="center" alt="Ismaely-Python" height="30" width="40" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+ <img aling="center" alt="Ismaely-Python" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   
   <br>
 </div>
@@ -38,6 +39,9 @@
    <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
    <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
    <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+     <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/-Docker-61DAFB?logo=docker&logoColor=white&style=for-the-badge">
+    <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Npm-DD0031?style=for-the-badge&logo=npm&logoColor=white">
+    <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Yarn-FF0034?style=for-the-badge&logo=yarn&logoColor=white">
 </div> 
   
   
@@ -63,7 +67,7 @@
   <a href="https://bitbucket.org/ismaely/" target="_blank">
   <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white">
    </a>
-    <a href="https://bitbucket.org/ismaely/" target="_blank">
+    <a href="ismaely#9773" target="_blank">
   <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
    </a>
   
@@ -72,15 +76,14 @@
 <p></p>
 <div style="display: iniline_block"> 
   <b> <h2>OS</h2> 
-  
    <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
   <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
   <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
  
- <div> 
-
- </div>
+ <div>
+  <img aling="center" src="https://komarev.com/ghpvc/?username=ismaely&color=FAC151">
+</div>
  
  
