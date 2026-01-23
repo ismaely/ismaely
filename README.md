@@ -125,8 +125,6 @@ appears on your GitHub profile.
   <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </div>
 
-<br><br>
-
 <!-- ================= OS ================= -->
 <div>
   <h2>OS</h2>
