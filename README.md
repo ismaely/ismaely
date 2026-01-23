@@ -76,6 +76,14 @@
 </div>
 
 <p></p>
+
+<div style="display: iniline_block"> 
+  <b> <h2>OS</h2> 
+   <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
+  <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+  <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</div>
 <div> 
   <b><h2>SEGURANÇA</h2></b>
 
@@ -91,14 +99,6 @@
   <img aling="center" alt="DevSecOps" src="https://img.shields.io/badge/DevSecOps-0f172a?style=for-the-badge">
   <img aling="center" alt="Monitoring" src="https://img.shields.io/badge/Monitoring_%26_Logs-2F4F4F?style=for-the-badge">
 </div>
-<div style="display: iniline_block"> 
-  <b> <h2>OS</h2> 
-   <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
-  <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
-  <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</div>
-
  <div> 
   <b><h2>INTELIGÊNCIA ARTIFICIAL</h2></b>
 
