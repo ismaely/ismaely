@@ -1,5 +1,8 @@
 ### ISMAELY 👋
-
+<p>
+  💻 Software Engineer focado em <b>Cloud</b>, <b>Segurança da Informação</b> e 
+  <b>Inteligência Artificial</b>, com experiência em APIs, automação, monitoramento e sistemas escaláveis.
+</p>
 <!--
 **ismaely/ismaely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -73,6 +76,21 @@
 </div>
 
 <p></p>
+<div> 
+  <b><h2>SEGURANÇA</h2></b>
+
+  <img aling="center" alt="Cyber Security" src="https://img.shields.io/badge/Cyber_Security-8B0000?style=for-the-badge">
+  <img aling="center" alt="OWASP" src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp">
+  <img aling="center" alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge">
+  <img aling="center" alt="OAuth2" src="https://img.shields.io/badge/OAuth2-3C873A?style=for-the-badge">
+
+  <img aling="center" alt="PenTest" src="https://img.shields.io/badge/PenTest-333333?style=for-the-badge">
+  <img aling="center" alt="SIEM" src="https://img.shields.io/badge/SIEM-003366?style=for-the-badge">
+  <img aling="center" alt="API Security" src="https://img.shields.io/badge/API_Security-005571?style=for-the-badge">
+
+  <img aling="center" alt="DevSecOps" src="https://img.shields.io/badge/DevSecOps-0f172a?style=for-the-badge">
+  <img aling="center" alt="Monitoring" src="https://img.shields.io/badge/Monitoring_%26_Logs-2F4F4F?style=for-the-badge">
+</div>
 <div style="display: iniline_block"> 
   <b> <h2>OS</h2> 
    <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
@@ -80,7 +98,22 @@
   <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
- 
+
+ <div> 
+  <b><h2>INTELIGÊNCIA ARTIFICIAL</h2></b>
+
+  <img aling="center" alt="AI" src="https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge">
+  <img aling="center" alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge">
+  <img aling="center" alt="Deep Learning" src="https://img.shields.io/badge/Deep_Learning-4B0082?style=for-the-badge">
+
+  <img aling="center" alt="OpenAI" src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai">
+  <img aling="center" alt="LangChain" src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge">
+  <img aling="center" alt="RAG" src="https://img.shields.io/badge/RAG_Systems-005571?style=for-the-badge">
+
+  <img aling="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow">
+  <img aling="center" alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch">
+  <img aling="center" alt="Data Science" src="https://img.shields.io/badge/Data_Science-1f425f?style=for-the-badge">
+</div>
  <div>
   <img aling="center" src="https://komarev.com/ghpvc/?username=ismaely&color=FAC151">
 </div>
