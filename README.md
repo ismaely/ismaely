@@ -1,4 +1,4 @@
-### ISMAELY 👋
+### Hey, I'm Ismael Fernando ✊🏾
 
 <!--
 **ismaely/ismaely** is a ✨ special ✨ repository because its README.md
@@ -6,9 +6,19 @@ appears on your GitHub profile.
 -->
 
 <p>
-  💻 Software Engineer focado em, <b>Segurança da Informação</b> e
-  <b>Inteligência Artificial</b>, com experiência em APIs, automação,
-  monitoramento e sistemas escaláveis.
+ DevOps Engineer | Cybersecurity | AI | Infrastructure | System Integration.
+ Building secure, scalable, and intelligent systems through automation, cloud infrastructure, APIs, and modern software engineering practices.
+
+Focused on:
+- Cybersecurity & API Security
+- Artificial Intelligence & RAG Systems
+- DevOps & Infrastructure Automation
+- Monitoring & Scalable Architectures
+- System Integration
+
+> "What's important is sharing the little that God has given us, for the good of many."
+
+I'm here to build, learn, and help. 🚀
 </p>
 
 <br>
