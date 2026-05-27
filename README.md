@@ -1,11 +1,7 @@
-<div align="center">
-
-![Ismael Fernando Banner](https://raw.githubusercontent.com/ismaely/ismaely/main/ismaely-banner.svg)
-
-</div>
-
 ---
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0057D9&height=180&section=header&text=Ismael%20Fernando&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Cybersecurity%20%7C%20AI%20%7C%20Infrastructure&descAlignY=55" />
+</p>
 ## 🧠 About Me
 
 <br> DevOps Engineer | Cybersecurity | AI | Infrastructure | System Integration</br>
