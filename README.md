@@ -3,13 +3,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0057D9&height=180&section=header&text=Gunza%20Ismael&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Cybersecurity%20%7C%20AI%20%7C%20Infrastructure&descAlignY=55" />
 </p>
 ## 🧠 About Me
-<br> Focused on: </br>
+Building secure, scalable, and intelligent systems through automation, cloud infrastructure, APIs, and modern software engineering practices.
+<br> 
+Focused on: </br>
 ##- Cybersecurity </br> 
 ##- Artificial Intelligence & RAG Systems </br>
 ##- DevOps & Infrastructure Automation  </br>
 ##- Monitoring & Scalable Architectures </br>
 ##- System Integration</br>
-Building secure, scalable, and intelligent systems through automation, cloud infrastructure, APIs, and modern software engineering practices.
+
 
 > 🏢📍 Luanda, Angola
 
