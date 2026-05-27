@@ -46,20 +46,10 @@ Building secure, scalable, and intelligent systems through automation, cloud inf
 ![API Security](https://img.shields.io/badge/API_Security-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ismael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismaely&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaely&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 <div align="center">
-
+> "What's important is sharing the little that God has given us, for the good of many."
 *"Code with purpose. Secure with discipline. Build for impact."* 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/G7ismael)
